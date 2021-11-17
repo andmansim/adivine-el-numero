@@ -6,7 +6,7 @@ https://github.com/andmansim/adivine-el-numero.git
 Hemos resuelto un juego de adivinar un número entero entre el 0 y el 100.
 El diagrama de flujo que tenemos en nuestro código es el siguiente:
 
-![diagrama de flujo adivine el número](/andmansim/adivine-el-numero/figma-juego-de-adivinar-el-numero.jpg)
+![diagrama de flujo adivine el número](figma-juego-de-adivinar-el-numero.jpg)
 
 ```import random
 numero = random.randint(0,100)
